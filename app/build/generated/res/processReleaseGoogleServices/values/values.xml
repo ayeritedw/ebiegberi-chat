@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">535557159157</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfI6_zZePm0xfJdlkQgidfW6CjQVzh6tM</string>
+    <string name="google_app_id" translatable="false">1:535557159157:android:74dbebf7936c23ba95adbc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfI6_zZePm0xfJdlkQgidfW6CjQVzh6tM</string>
+    <string name="google_storage_bucket" translatable="false">ebiegberi-chat-9d300.firebasestorage.app</string>
+    <string name="project_id" translatable="false">ebiegberi-chat-9d300</string>
+</resources>

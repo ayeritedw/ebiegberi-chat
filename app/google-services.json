@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535557159157",
+    "project_id": "ebiegberi-chat-9d300",
+    "storage_bucket": "ebiegberi-chat-9d300.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535557159157:android:74dbebf7936c23ba95adbc",
+        "android_client_info": {
+          "package_name": "com.ebiegberi.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfI6_zZePm0xfJdlkQgidfW6CjQVzh6tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
