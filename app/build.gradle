@@ -17,16 +17,6 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    
-    signingConfigs {
-        release {
-            signingConfig signingConfigs.release
-            storeFile file('release.keystore')
-            storePassword 'Ebiegberi123!'
-            keyAlias 'ebiegberi'
-            keyPassword 'Ebiegberi123!'
-        }
-    }
     buildTypes {
         release {
             minifyEnabled false
@@ -57,4 +47,3 @@ dependencies {
     implementation 'com.google.firebase:firebase-firestore'
     implementation 'com.google.firebase:firebase-storage'
 }
-
